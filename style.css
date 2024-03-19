@@ -89,7 +89,6 @@ header, nav, main, footer {
 header {
     background-color: black;
     align-items: center;
-    line-height: 100%;
 }
 
 nav {
@@ -137,7 +136,7 @@ body {
             "footer footer footer footer"
         ;
         grid-template-columns: 1fr 1fr 1fr 1fr;
-        grid-template-rows: 1fr 2fr 6fr 1fr;
+        grid-template-rows: 1fr 2fr 7fr 1fr;
     }
 
     header, nav, main {
